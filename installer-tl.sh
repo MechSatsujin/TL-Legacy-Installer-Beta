@@ -78,7 +78,7 @@ sudo chmod +x /usr/share/applications/tl-legacy.desktop
 sudo chmod +x /usr/share/applications/remove-tl.desktop
 echo 'Desktop Files are now Executable'
 sleep 1
-read -p "What Java JDK Version Package would you like to install? [1]default-jdk [2]openjdk-17 [3]openjdk-18 [4]openjdk-19 [5]openjdk-8:" -n 1 -r
+read -p "What Java JDK Version Package would you like to install? [1]default-jdk [2]openjdk-17 [3]openjdk-18 [4]openjdk-19 [5]openjdk-8 [Default:Don't Install]:" -n 1 -r
 
 if [[ $REPLY =~ ^[1]$ ]]
 then
