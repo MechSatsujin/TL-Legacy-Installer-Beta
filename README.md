@@ -16,9 +16,8 @@ This is a PreRelease version and bugs and issues may appear.
 4. And follow the instructions from the installer.
 
 # How do I uninstall it?
-Its more easier to uninstall it through searching "Remove TL" in the Application Menu and run it. This will uninstall the components of TL:Legacy.
+Its more easier to uninstall it through searching "Remove TL" in the Application Menu and run it. This will uninstall the components of TL:Legacy (Doesn't include the minecraft directory unless you perform the clean installation on the . 
 
 # Is this from the official developers?
 No. I am not one of the developers of this launcher, I'm just a minecraft player. I made this for fun.
 
-# 
