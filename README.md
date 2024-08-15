@@ -1,3 +1,7 @@
+# Message 
+Project is archived, unmaintained 😢
+
+
 # TL-Legacy-Installer-Beta
 This is the Beta version of the RuahWonders' TL Online Installer. This installer is not made by the official developers of TL:Legacy.
 
